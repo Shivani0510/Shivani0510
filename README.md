@@ -7,7 +7,7 @@
 </p>
 
 <!-- Brief Text About Myself -->
-<h4 align="center"> Competitive Programmer | I'm An Full Stack Developer  </h4>
+<h4 align="center"> Competitive Programmer | I'm a Full Stack Developer  </h4>
  
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/images/Lady%20Programmer.gif" width="500"/>
@@ -22,7 +22,7 @@
 <!-- Github Streaks Stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=parulchaddha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani0510&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
 
